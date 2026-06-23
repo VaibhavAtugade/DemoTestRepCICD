@@ -1,0 +1,13 @@
+D:\UnifiedApplicationMicroServ2026\UnifiedAuthService\src\main\java\com\vai\unified\auth\controller\AuthController.java
+D:\UnifiedApplicationMicroServ2026\UnifiedAuthService\src\main\java\com\vai\unified\auth\controller\GoogleAuthController.java
+D:\UnifiedApplicationMicroServ2026\UnifiedAuthService\src\main\java\com\vai\unified\auth\dto\AuthRequest.java
+D:\UnifiedApplicationMicroServ2026\UnifiedAuthService\src\main\java\com\vai\unified\auth\dto\AuthResponse.java
+D:\UnifiedApplicationMicroServ2026\UnifiedAuthService\src\main\java\com\vai\unified\auth\dto\ValidateCodeRequest.java
+D:\UnifiedApplicationMicroServ2026\UnifiedAuthService\src\main\java\com\vai\unified\auth\dto\ValidationResponse.java
+D:\UnifiedApplicationMicroServ2026\UnifiedAuthService\src\main\java\com\vai\unified\auth\entity\User.java
+D:\UnifiedApplicationMicroServ2026\UnifiedAuthService\src\main\java\com\vai\unified\auth\googleAuth\GoogleAuthCreate.java
+D:\UnifiedApplicationMicroServ2026\UnifiedAuthService\src\main\java\com\vai\unified\auth\googleAuth\GoogleAuthResponse.java
+D:\UnifiedApplicationMicroServ2026\UnifiedAuthService\src\main\java\com\vai\unified\auth\googleAuth\QRCodeGenerator.java
+D:\UnifiedApplicationMicroServ2026\UnifiedAuthService\src\main\java\com\vai\unified\auth\repository\UserRepository.java
+D:\UnifiedApplicationMicroServ2026\UnifiedAuthService\src\main\java\com\vai\unified\auth\service\JwtService.java
+D:\UnifiedApplicationMicroServ2026\UnifiedAuthService\src\main\java\com\vai\unified\auth\UnifiedAuthServiceApplication.java
