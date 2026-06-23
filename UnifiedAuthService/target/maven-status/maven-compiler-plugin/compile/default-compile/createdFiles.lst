@@ -1,0 +1,15 @@
+com\vai\unified\auth\dto\AuthResponse.class
+com\vai\unified\auth\controller\GoogleAuthController.class
+com\vai\unified\auth\controller\ValidateCodeRequest.class
+com\vai\unified\auth\googleAuth\GoogleAuthResponse.class
+com\vai\unified\auth\dto\AuthResponse$AuthResponseBuilder.class
+com\vai\unified\auth\repository\UserRepository.class
+com\vai\unified\auth\dto\AuthRequest.class
+com\vai\unified\auth\controller\AuthController.class
+com\vai\unified\auth\googleAuth\QRCodeGenerator.class
+com\vai\unified\auth\entity\User.class
+com\vai\unified\auth\service\JwtService.class
+com\vai\unified\auth\entity\User$UserBuilder.class
+com\vai\unified\auth\UnifiedAuthServiceApplication.class
+com\vai\unified\auth\googleAuth\GoogleAuthCreate.class
+com\vai\unified\auth\dto\ValidationResponse.class
