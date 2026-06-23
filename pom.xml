@@ -117,11 +117,11 @@
 
 	<build>
 		<plugins>
-			<!-- <plugin>
+			<plugin>
 				<groupId>org.springframework.boot</groupId>
 				<artifactId>spring-boot-maven-plugin</artifactId>
-			</plugin> -->
-			  <plugin>
+			</plugin>  
+			  <!--  <plugin>
             <groupId>org.springframework.boot</groupId>
             <artifactId>spring-boot-maven-plugin</artifactId>
             <configuration>
@@ -129,7 +129,7 @@
                     com.vai.unified.auth.UnifiedAuthServiceApplication
                 </mainClass>
             </configuration>
-        </plugin>
+        </plugin>  -->
 		</plugins>
 	</build>
 
